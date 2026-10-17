@@ -1,0 +1,146 @@
+[
+  {
+    "id": "T-1001",
+    "received_at": "2026-10-17T08:12:00",
+    "from_name": "Jonah Blake",
+    "from_email": "j.blake@example.com",
+    "subject": "Where is my bike?",
+    "body": "Hi — I ordered a Commuter S last week (order RW-10510) and the confirmation said it shipped, but I still don't have a clear delivery day. Can you tell me where it is and when I should expect it?\n\nThanks,\nJonah"
+  },
+  {
+    "id": "T-1002",
+    "received_at": "2026-10-17T08:31:00",
+    "from_name": "Maya Chen",
+    "from_email": "maya.chen@example.com",
+    "subject": "I'd like a refund",
+    "body": "Hello, I need to return my Ridgeway Commuter S and get a refund. It's too large for the storage in my building. Order RW-10482. I only rode it around the block. Please send a return label if that's how this works.\n\nMaya Chen"
+  },
+  {
+    "id": "T-1003",
+    "received_at": "2026-10-17T08:44:00",
+    "from_name": "Luis Ortega",
+    "from_email": "luis.ortega@example.com",
+    "subject": "Item arrived damaged",
+    "body": "The Trail 5 showed up today and the box was crushed on one corner. The derailleur hanger is bent and there's a gouge on the downtube. I have photos of the box and the bike. Order RW-10522. I haven't ridden it. I need this replaced — I don't want a damaged bike.\n\nLuis"
+  },
+  {
+    "id": "T-1004",
+    "received_at": "2026-10-17T09:05:00",
+    "from_name": "Priya Nair",
+    "from_email": "priya.nair@example.net",
+    "subject": "Refund for the cargo bike",
+    "body": "Hi, I want my money back on RW-10440. The Cargo Mk2 isn't getting as much use as I thought. I know it's been a while since it arrived in August, but I'm asking anyway.\n\nPriya"
+  },
+  {
+    "id": "T-1005",
+    "received_at": "2026-10-17T09:18:00",
+    "from_name": "Hannah Cole",
+    "from_email": "hannah.cole@example.com",
+    "subject": "Missing charger",
+    "body": "My Commuter S arrived but the charger wasn't in the box, and I don't see a second package. I can't use the bike. Order RW-10391. Can you send the charger out today?\n\nHannah"
+  },
+  {
+    "id": "T-1006",
+    "received_at": "2026-10-17T09:40:00",
+    "from_name": "Owen Grant",
+    "from_email": "owen.grant@example.com",
+    "subject": "Battery warranty",
+    "body": "The battery on my Commuter S (serial RW-C-770441, order RW-10115) is dropping from full to empty in about 8 miles. It used to do 35+. Can you start a warranty claim? Happy to send photos and the cycle count from the display.\n\nOwen"
+  },
+  {
+    "id": "T-1007",
+    "received_at": "2026-10-17T10:02:00",
+    "from_name": "Sofia Marin",
+    "from_email": "sofia.marin@example.com",
+    "subject": "Please cancel my order",
+    "body": "Please cancel order RW-10531. I found a used bike locally and don't need the step-through anymore. I ordered it yesterday so I'm hoping it hasn't shipped.\n\nSofia"
+  },
+  {
+    "id": "T-1008",
+    "received_at": "2026-10-17T10:11:00",
+    "from_name": "Chris Adeyemi",
+    "from_email": "chris.adeyemi@example.com",
+    "subject": "Cancel RW-10518",
+    "body": "I need to cancel my Trail 5 order RW-10518. Plans changed. Please stop it if you can and refund me.\n\nChris"
+  },
+  {
+    "id": "T-1009",
+    "received_at": "2026-10-17T10:28:00",
+    "from_name": "Elena Voss",
+    "from_email": "elena.voss@example.com",
+    "subject": "Returning the custom cargo",
+    "body": "I'd like to return the custom cargo bike (RW-10401) for a refund. The color isn't what I expected in daylight. It arrived last week.\n\nElena"
+  },
+  {
+    "id": "T-1010",
+    "received_at": "2026-10-17T10:47:00",
+    "from_name": "Marcus Hill",
+    "from_email": "marcus.hill@example.com",
+    "subject": "This is taking forever",
+    "body": "RW-10488 has been stuck in Chicago according to UPS for almost two weeks. The site said 5–8 business days. I still don't have a bike and tracking hasn't moved. This is ridiculous. What are you going to do about it?\n\nMarcus Hill"
+  },
+  {
+    "id": "T-1011",
+    "received_at": "2026-10-17T11:03:00",
+    "from_name": "Nina Patel",
+    "from_email": "nina.patel@example.com",
+    "subject": "Return unused panniers",
+    "body": "The pannier set doesn't fit the rack I already own. They're unopened. Order RW-10504. I'd like to send them back for a refund.\n\nNina"
+  },
+  {
+    "id": "T-1012",
+    "received_at": "2026-10-17T11:22:00",
+    "from_name": "Tom Rinaldi",
+    "from_email": "tom.rinaldi@example.com",
+    "subject": "Motor cut out after I washed the bike",
+    "body": "Warranty question — I pressure washed the Trail 5 after a muddy ride and now the motor cuts out. Order RW-10220 from a couple years ago. Can you replace the controller under warranty?\n\nTom"
+  },
+  {
+    "id": "T-1013",
+    "received_at": "2026-10-17T11:36:00",
+    "from_name": "Ava Brooks",
+    "from_email": "ava.brooks@example.com",
+    "subject": "Has my order shipped?",
+    "body": "Hi, just checking on RW-10527. I ordered the black step-through two days ago and haven't seen a tracking number yet. No rush, just curious.\n\nAva"
+  },
+  {
+    "id": "T-1014",
+    "received_at": "2026-10-17T11:51:00",
+    "from_name": "Ben Okonkwo",
+    "from_email": "ben.okonkwo@example.com",
+    "subject": "NEED THIS BEFORE SATURDAY",
+    "body": "I ordered RW-10512 for a wedding this Saturday (Oct 18). Tracking still says in transit. I need this bike Friday at the latest or I have a real problem. Please do something — overnight it, intercept it, anything.\n\nBen"
+  },
+  {
+    "id": "T-1015",
+    "received_at": "2026-10-17T12:08:00",
+    "from_name": "Claire Dubois",
+    "from_email": "claire.dubois@example.com",
+    "subject": "Wrong size arrived",
+    "body": "I ordered a Trail 5 but the bike that arrived is a small and I need a medium. The confirmation for RW-10495 said medium. Can you send the right size? I'm happy to send this one back.\n\nClaire"
+  },
+  {
+    "id": "T-1016",
+    "received_at": "2026-10-17T12:21:00",
+    "from_name": "Diego Alvarez",
+    "from_email": "diego.alvarez@example.com",
+    "subject": "I was charged twice",
+    "body": "My card shows two charges of $2,149 for order RW-10508. I only ordered one bike. Please reverse the duplicate. I can forward the statement if you need it.\n\nDiego"
+  },
+  {
+    "id": "T-1017",
+    "received_at": "2026-10-17T12:40:00",
+    "from_name": "Ruth Kim",
+    "from_email": "ruth.kim@example.com",
+    "subject": "Range on the City Step-Through?",
+    "body": "Not a complaint — I bought RW-10519 and it's on the way. What's the realistic range in eco mode for a 150 lb rider in a hilly city? The site says 40 miles and that feels optimistic.\n\nRuth"
+  },
+  {
+    "id": "T-1018",
+    "received_at": "2026-10-17T13:02:00",
+    "from_name": "Unknown Customer",
+    "from_email": "somebody@example.org",
+    "subject": "Where is my order???",
+    "body": "You charged me last month and I never got a bike. I don't have the order number handy. My name might be under a different email. This is unacceptable. I want it delivered today or I want a full refund and I'll be talking to my lawyer.\n\nS."
+  }
+]

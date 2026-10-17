@@ -1,0 +1,76 @@
+{
+  "shop": "Ridgeway",
+  "version": "2026-09-01",
+  "chunks": [
+    {
+      "id": "returns-window",
+      "topic": "returns",
+      "title": "30-day return window",
+      "body": "Customers may return unused or lightly used bikes and accessories within 30 days of delivery for a refund to the original payment method. The return window starts on the delivery date, not the order date. Custom builds and final-sale items are not returnable.",
+      "keywords": ["return", "refund", "30 day", "window", "send back"]
+    },
+    {
+      "id": "returns-condition",
+      "topic": "returns",
+      "title": "Condition and restocking",
+      "body": "Bikes must come back with the battery, charger, keys, and original accessories. We inspect at the warehouse before refunding. A 10% restocking fee applies if the bike was ridden outdoors and is not defective. Unopened accessories are refunded in full. Customer pays return shipping unless the item is defective, damaged in transit, or we sent the wrong item — then we provide a prepaid label.",
+      "keywords": ["restocking", "charger", "keys", "inspect", "return shipping", "label"]
+    },
+    {
+      "id": "returns-refund-timing",
+      "topic": "returns",
+      "title": "When the refund lands",
+      "body": "After warehouse inspection passes, refunds are issued in 5–7 business days. We do not refund until the bike is received. If the customer cancels before the order ships, the refund is issued the same day without a return.",
+      "keywords": ["refund timing", "5-7", "inspection", "cancel before ship"]
+    },
+    {
+      "id": "shipping-times",
+      "topic": "shipping",
+      "title": "Shipping times and tracking",
+      "body": "Standard ground is 5–8 business days after the bike leaves the warehouse. Express is 2–3 business days. A tracking email goes out when the carrier scans the package. Signature is required on bikes over $1,500. Accessories under 10 lb may ship separately from the bike.",
+      "keywords": ["tracking", "shipped", "delivery", "eta", "where is my order", "signature"]
+    },
+    {
+      "id": "shipping-delays",
+      "topic": "shipping",
+      "title": "Carrier delays",
+      "body": "We do not refund shipping for carrier delays. If an order has been in transit more than 10 business days past the quoted window, we offer a $25 store credit. Lost packages are investigated with the carrier; we replace or refund once the carrier confirms loss.",
+      "keywords": ["delay", "late", "lost", "credit", "carrier"]
+    },
+    {
+      "id": "shipping-damage",
+      "topic": "shipping",
+      "title": "Damage in transit",
+      "body": "If a bike arrives damaged, do not refuse the whole delivery if it is unsafe to leave outside — photograph the box, the bike, and the serial number, then contact support. We cover inbound damage: prepaid return of the damaged unit and a replacement if in stock, otherwise a full refund including original shipping. Do not ride a damaged bike.",
+      "keywords": ["damaged", "broken", "box", "transit", "replacement", "photos"]
+    },
+    {
+      "id": "warranty-coverage",
+      "topic": "warranty",
+      "title": "What the warranty covers",
+      "body": "Frame 2 years, motor 2 years, battery 1 year or 500 charge cycles (whichever first), electronics 1 year. Wear items (tires, brake pads, grips, chain) are covered for 90 days against manufacturing defects only. Warranty starts on delivery. We need the serial number and photos of the issue to open a claim.",
+      "keywords": ["warranty", "battery", "motor", "frame", "serial", "defect"]
+    },
+    {
+      "id": "warranty-exclusions",
+      "topic": "warranty",
+      "title": "What the warranty does not cover",
+      "body": "Not covered: crash or impact damage, water damage from pressure washing or submersion, unauthorized electrical modifications, commercial fleet use, and normal wear. Batteries stored below 20% for months may fail and are not covered. Denied claims can still be repaired at the customer’s cost through an authorized shop.",
+      "keywords": ["water", "crash", "modification", "excluded", "pressure wash", "not covered"]
+    },
+    {
+      "id": "cancel-policy",
+      "topic": "returns",
+      "title": "Cancellations",
+      "body": "Orders can be cancelled in full if they have not shipped. Once shipped, the customer should refuse delivery or use the return process. Custom paint or rack builds cannot be cancelled after production has started (usually 24 hours after order).",
+      "keywords": ["cancel", "cancellation", "stop the order"]
+    },
+    {
+      "id": "billing-policy",
+      "topic": "billing",
+      "title": "Billing and duplicate charges",
+      "body": "Duplicate charges are reversed after we confirm two captures for the same order number. Pre-authorizations (not captures) drop off the statement in 3–7 business days and are not refunds. Sales tax is charged based on the shipping address. Billing disputes that look like fraud are escalated to the payments lead and are never auto-resolved.",
+      "keywords": ["charged twice", "billing", "invoice", "authorization", "tax", "payment"]
+    }
+  ]
+}
